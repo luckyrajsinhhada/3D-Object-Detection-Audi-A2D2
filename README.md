@@ -20,7 +20,7 @@ A dense, colored point cloud representing the 3D structure of the scene captured
 
 Red and green cubes (bounding boxes) illustrate how objects would be annotated for 3D detection, confirming understanding of spatial positioning and perception.
 
-## uture work
+## Future work
 
 Process the full Audi A2D2 dataset, fusing LiDAR, camera, and radar data.
 
