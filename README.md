@@ -20,6 +20,13 @@ A dense, colored point cloud representing the 3D structure of the scene captured
 
 Red and green cubes (bounding boxes) illustrate how objects would be annotated for 3D detection, confirming understanding of spatial positioning and perception.
 
+## Demo Dashboard
+
+Screenshot and screen recording included to showcase the dashboard functionality.
+
+Demonstrates frame-by-frame LiDAR + camera visualization with bounding boxes.
+
+
 ## Future work
 
 Process the full Audi A2D2 dataset, fusing LiDAR, camera, and radar data.
